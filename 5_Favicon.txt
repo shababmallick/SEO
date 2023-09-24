@@ -1,0 +1,6 @@
+
+In short, a favicon is a small icon associated with a
+ website or web page, typically displayed in the browser's tab or address bar. It helps users quickly identify and recognize a website. Here's a 
+concise example of how to define a favicon in HTML:
+
+<link rel="icon" href="favicon.ico" type="image/x-icon">
